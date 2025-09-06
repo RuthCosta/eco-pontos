@@ -5,5 +5,26 @@
     "endereco": "Rua A",
     "bairro": "Centro",
     "cep": "60000-000"
+  },
+  {
+    "id": 1757187784573,
+    "nome": "Ecoponto - São João do Tauape",
+    "endereco": "Av. Visconde do Rio Branco, 3485",
+    "bairro": "Joaquim Távora",
+    "cep": "60055-172"
+  },
+  {
+    "id": 1757189037300,
+    "nome": "Ecoponto Bairro Guararapes",
+    "endereco": "R. Paulo Roberto Pinheiro, 01 ",
+    "bairro": "Guararapes",
+    "cep": "60810-350"
+  },
+  {
+    "id": 1757196063301,
+    "nome": "Ecoponto - Tancredo Neves",
+    "endereco": "Rua da Cachoeira",
+    "bairro": "Jardim Das Oliveiras",
+    "cep": "60823-022"
   }
 ]

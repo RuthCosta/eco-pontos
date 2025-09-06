@@ -1,0 +1,37 @@
+{
+  "_type": "export",
+  "__export_format": 4,
+  "__export_date": "2025-09-06T00:00:00.000Z",
+  "__export_source": "eco-pontos-api",
+  "resources": [
+    {
+      "_id": "wrk_eco_pontos",
+      "name": "Ecopontos API",
+      "_type": "workspace"
+    },
+    {
+      "_id": "req_post_ponto",
+      "parentId": "wrk_eco_pontos",
+      "_type": "request",
+      "method": "POST",
+      "url": "http://localhost:3000/pontos",
+      "name": "Cadastrar Ponto",
+    },
+    {
+      "_id": "req_get_pontos",
+      "parentId": "wrk_eco_pontos",
+      "_type": "request",
+      "method": "GET",
+      "url": "http://localhost:3000/pontos",
+      "name": "Pesquisar Pontos"
+    },
+    {
+      "_id": "req_delete_ponto",
+      "parentId": "wrk_eco_pontos",
+      "_type": "request",
+      "method": "DELETE",
+      "url": "http://localhost:3000/pontos/ID_DO_PONTO",
+      "name": "Excluir Ponto"
+    }
+  ]
+}
