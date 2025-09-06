@@ -1,58 +1,9 @@
 [
   {
-    "id": 1756943984881,
-    "nome": "Ecopoint Antônio Bezerra",
-    "endereco": "Rua Dr. João Guilherme",
-    "bairro": "Antônio Bezerra",
-    "cep": "60356-770"
-  },
-  {
-    "id": 1756944062402,
-    "nome": "Ecoponto - São João do Tauape",
-    "endereco": "Av. Visconde do Rio Branco, 3485",
-    "bairro": "Joaquim Távora",
-    "cep": "60055-172"
-  },
-  {
-    "id": 1756944103608,
-    "nome": "Ecopoint Jardim Cearense",
-    "endereco": "Rua Holanda, 1538",
-    "bairro": "Jardim Cearense",
-    "cep": "60712-165"
-  },
-  {
-    "id": 1756944151636,
-    "nome": "Ecoponto Bairro Guararapes",
-    "endereco": "Rua Paulo Roberto Pinheiro, 01",
-    "bairro": "Guararapes",
-    "cep": "60810-350"
-  },
-  {
-    "id": 1756980414928,
-    "nome": "Ecoponto - Jovita Feitosa",
-    "endereco": "Rua General Bernardo Figueiredo",
-    "bairro": "Amadeu Furtado",
-    "cep": "60455-475"
-  },
-  {
-    "id": 1756980458645,
-    "nome": "Ecopoint Cartier",
-    "endereco": "Rua Quartzo, 14-12",
-    "bairro": "Mondubim",
-    "cep": "60762-370"
-  },
-  {
-    "id": 1756980509191,
-    "nome": "Ecopoint Cajazeiras",
-    "endereco": "Rua Francisco Jose Albuquerque Pereira, 414",
-    "bairro": "Cajazeiras",
-    "cep": "60864-520"
-  },
-  {
-    "id": 1756980584512,
-    "nome": "Ecoponto - Tancredo Neves",
-    "endereco": "Rua da Cachoeira",
-    "bairro": "Jardim Das Oliveiras",
-    "cep": "60823-022"
+    "id": 1,
+    "nome": "Teste",
+    "endereco": "Rua A",
+    "bairro": "Centro",
+    "cep": "60000-000"
   }
 ]
