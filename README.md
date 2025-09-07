@@ -214,7 +214,7 @@ npx jest tests/api.test.js
 1. Após iniciar o backend
 2. Abra o Insomnia e importe o arquivo insomnia_export.json do diretório 
 
-## Contrubuições
+## Contribuição
 | Aluno | Matrícula | Contribuição |
 |-------| --------- | ------------ |
 | Ruth de Fátima da Costa Silva | 2222906 | Código |
