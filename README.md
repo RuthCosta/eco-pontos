@@ -112,7 +112,7 @@ docker-compose up --build
 - HTTP
 - REST
 - JSON
-- Cors
+- CORS
 - Nominatim
 
 ## API
