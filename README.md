@@ -8,7 +8,7 @@ Neste cenário, desenvolvemos um projeto que tem por objetivo entregar endereço
 ## Funcionalidades
 
 1. Pesquisar por nome ou por bairro pontos de coleta de lixo em Fortaleza;
-2. Monstrar a localização dos eccopontos pesquisados no mapa interativo;
+2. Monstrar a localização dos ecopontos pesquisados no mapa interativo;
 3. Cadastrar novos pontos de coleta através do front-end;
 4. Permitir que o desenvolvedor exclua ecopontos cadastrados.
 
@@ -112,6 +112,8 @@ docker-compose up --build
 - HTTP
 - REST
 - JSON
+- Cors
+- Nominatim
 
 ## API
 ### Diagrama de Arquitetura
