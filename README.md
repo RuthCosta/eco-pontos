@@ -1,7 +1,7 @@
 # EcoPontos
 Atualmente, Fortaleza possui centenas de pontos de descarte irregular de lixo. Esse problema acarreta na obstrução de calçadas e pistas, levando à riscos na saúde pública, transporte e infraestrutura que afetam toda a população, principalmente aqueles em estado de vulnerabilidade social. A falta de manutenção e fiscalização só agravam os perigos, embora a Prefeitura ofereça um serviço de coleta regular e ecopontos para o descarte adequado do lixo.
 
-Neste cenário, desenvolvemos um projeto que tem por objetivo entregar endereços de ecopontos em Fortaleza baseado na busca pelos nomes ou bairros em que estão localizados, realizando também o cadastro de novos pontos de coleta que ainda não foram salvos na base de dados do sistema.
+Neste cenário, desenvolvemos um projeto que tem por objetivo entregar endereços de ecopontos em Fortaleza baseado na busca pelos seus nomes ou bairros em que estão localizados, realizando também o cadastro de novos pontos de coleta que ainda não foram salvos na base de dados do sistema.
 
 [![status do projeto](http://img.shields.io/badge/Status-Em%20Desenvolvimento-green)](https://github.com/seu-usuario/seu-projeto)
 
