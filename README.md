@@ -23,14 +23,21 @@ Neste cenário, desenvolvemos um projeto que tem por objetivo entregar endereço
 ```bash
 eco-pontos/
 │
-├── backend/
-│   ├── index.js        # Código principal da API
-│   ├── swagger.js      # Configuração Swagger
-│   ├── package.json
+├── backend/                          # Código do servidor (API)
+│   ├── index.js                      # Ponto de entrada da aplicação Express
+│   ├── swagger.js                    # Configuração do Swagger
+│   ├── pontos.json                   # "Banco de dados" em JSON (persistência local)
+│   ├── package.json                  # Dependências do Node.js
 │   ├── package-lock.json
-│   ├── Dockerfile
+|   ├── docker-compose.yml                 # Orquestração do container (backend e futuro db se quiser)
+│   ├── Dockerfile                    # Imagem Docker para rodar o backend
+│   └── tests/                        # Testes automatizados
+|       ├── api.test.js
+│       └── unit.test.js              # Testes unitários com Jest
 │
-├── docker-compose.yml
+├── frontend/                         # Página web de interação com a API
+└── ├── index.html                    # Página principal (pesquisa e mapa)
+ 
 ```
 
 ## Como Executar
