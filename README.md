@@ -29,7 +29,7 @@ eco-pontos/
 │   ├── pontos.json                   # "Banco de dados" em JSON (persistência local)
 │   ├── package.json                  # Dependências do Node.js
 │   ├── package-lock.json
-|   ├── docker-compose.yml                 # Orquestração do container (backend e futuro db se quiser)
+│   ├── docker-compose.yml            # Orquestração do container (backend e futuro db se quiser)
 │   ├── Dockerfile                    # Imagem Docker para rodar o backend
 │   └── tests/                        # Testes automatizados
 |       ├── api.test.js
