@@ -32,7 +32,7 @@ eco-pontos/
 │   ├── docker-compose.yml            # Orquestração do container (backend e futuro db se quiser)
 │   ├── Dockerfile                    # Imagem Docker para rodar o backend
 │   └── tests/                        # Testes automatizados
-|       ├── api.test.js
+│       ├── api.test.js
 │       └── unit.test.js              # Testes unitários com Jest
 │
 ├── frontend/                         # Página web de interação com a API
