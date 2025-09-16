@@ -15,9 +15,8 @@ Neste cenário, desenvolvemos um projeto que tem por objetivo entregar endereço
 ## Pré-requisitos
 
 1. Node.js superior a versão 18
-2. npm
-3. Git
-4. Docker
+2. Git
+3. Docker
 
 ## Estrutura do projeto
 ```bash
