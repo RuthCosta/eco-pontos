@@ -36,4 +36,4 @@
 4. O sistema deverá ser desenvolvido de
    forma simples e intuitiva para que o um
    usuário novo possa utiliza-lo sem
-   necessidade de ajuda;
+   necessidade de ajuda.
