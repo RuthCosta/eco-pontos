@@ -24,7 +24,7 @@ eco-pontos/
 │
 ├── README.md
 ├── Docs/
-    └── arquitetura.md
+│   └── arquitetura.md
 ├── backend/                          # Código do servidor (API)
 │   ├── index.js                      # Ponto de entrada da aplicação Express
 │   ├── swagger.js                    # Configuração do Swagger
@@ -34,8 +34,9 @@ eco-pontos/
 │   ├── docker-compose.yml            # Orquestração do container (backend e futuro db se quiser)
 │   ├── Dockerfile                    # Imagem Docker para rodar o backend
 │   └── tests/                        # Testes automatizados
+│       ├── insomnia_export.json
 │       ├── api.test.js
-│       └── unit.test.js              # Testes unitários com Jest
+│       └── unit.test.js              
 │
 ├── frontend/                         # Página web de interação com a API
 └── ├── index.html                    # Página principal (pesquisa e mapa)
