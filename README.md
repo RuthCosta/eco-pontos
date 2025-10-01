@@ -22,6 +22,9 @@ Neste cenário, desenvolvemos um projeto que tem por objetivo entregar endereço
 ```bash
 eco-pontos/
 │
+├── README.md
+├── Docs/
+    └── arquitetura.md
 ├── backend/                          # Código do servidor (API)
 │   ├── index.js                      # Ponto de entrada da aplicação Express
 │   ├── swagger.js                    # Configuração do Swagger
