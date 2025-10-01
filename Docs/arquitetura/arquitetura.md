@@ -76,6 +76,7 @@ Camada de Serviços Externos
 ## Modelagem
 
 Diagrama de Fluxo de Componentes
+
 <img width="499" height="825" alt="Captura de tela de 2025-09-30 22-48-32" src="https://github.com/user-attachments/assets/89ff09b3-cd60-4633-93ee-dcdc86452e4d" />
 
 Diagrama de componentes
