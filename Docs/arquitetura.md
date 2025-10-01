@@ -1,25 +1,25 @@
-# 5. DESIGN DA ARQUITETURA
+# DESIGN DA ARQUITETURA
 
-## 5.1 Definição da Arquitetura do Sistema
+## Definição da Arquitetura do Sistema
 
-## 5.2 Camadas da Arquitetura do Sistema
+## Camadas da Arquitetura do Sistema
 
-### 5.2.1 Camada de Apresentação
+### Camada de Apresentação
 - Interface para usuários realizarem operações como cadastro do usuário.
 - Pode ser uma aplicação web ou desktop.
 - Responsável por validar dados.
 
-### 5.2.2 Camada de Aplicação
+### Camada de Aplicação
 - Contém as regras de negócio.
 - Processa os dados recebidos da interface e prepara para envio ao sistema externo.
 - Gera logs de operação e controla o fluxo de integração.
 
-### 5.2.3 Camada de Integração
+### Camada de Integração
 - Implementada via Web Services (REST).
 - Responsável por enviar e receber dados entre sistemas.
 - Trata autenticação, criptografia e validação de mensagens.
 
-### 5.2.4 Camada de Persistência
+### Camada de Persistência
 Banco de dados relacional para armazenar:
 - Dados de usuários
 - Histórico de integrações
@@ -27,17 +27,17 @@ Banco de dados relacional para armazenar:
 
 Garante consistência e rastreabilidade das operações.
 
-### 5.2.5 Camada de Sistemas Externos
+### Camada de Sistemas Externos
 - Sistemas destino que recebem os dados integrados.
 - Podem ser ERPs, sistemas legados ou plataformas web.
 
-## 5.3 Padrões Arquiteturais
+## Padrões Arquiteturais
 
 - Frontend e Backend independentes
 - Comunicação via API REST
 - Fácil escalabilidade e manutenção  
 
-## 5.4 ESPECIFICAÇÃO TECNOLÓGICA COMPLETA
+## ESPECIFICAÇÃO TECNOLÓGICA COMPLETA
 
 Camada de Apresentação (Frontend)
 
@@ -76,6 +76,9 @@ Camada de Serviços Externos
 ## Modelagem
 
 Diagrama de Fluxo de Componentes
+<img width="499" height="825" alt="Captura de tela de 2025-09-30 22-48-32" src="https://github.com/user-attachments/assets/89ff09b3-cd60-4633-93ee-dcdc86452e4d" />
 
 Diagrama de componentes
+
+<img width="583" height="325" alt="Captura de tela de 2025-09-30 21-45-21" src="https://github.com/user-attachments/assets/ae8c84b8-a1f1-4cf7-8983-207244b3128f" />
 
