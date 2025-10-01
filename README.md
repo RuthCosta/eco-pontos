@@ -28,7 +28,11 @@ eco-pontos/
 │   │   └── requisitos.md
 │   ├── arquitetura/
 │   │   └── arquitetura.md
-│   ├── prototipo/
+│   ├── api/
+│   │   └── api_especificações.md
+│   ├── banco_de_dados/
+│   │   └──modelo_banco_de_dados.md
+│   └── prototipo/
 │       ├── mobile/
 │       │   └── [arquivos de imagem]
 │       └── web/
