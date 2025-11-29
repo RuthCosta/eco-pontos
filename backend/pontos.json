@@ -8,7 +8,7 @@
   },
   {
     "id": 1757187784573,
-    "nome": "Ecoponto - São João do Tauape",
+    "nome": "Ecoponto São João do Tauape",
     "endereco": "Av. Visconde do Rio Branco, 3485",
     "bairro": "Joaquim Távora",
     "cep": "60055-172"
@@ -22,9 +22,23 @@
   },
   {
     "id": 1757196063301,
-    "nome": "Ecoponto - Tancredo Neves",
+    "nome": "Ecoponto Tancredo Neves",
     "endereco": "Rua da Cachoeira",
     "bairro": "Jardim Das Oliveiras",
     "cep": "60823-022"
+  },
+  {
+    "id": 1764414461880,
+    "nome": "Ecopoint Antônio Bezerra",
+    "endereco": "Rua Dr. João Guilherme - Antônio Bezerra",
+    "bairro": "Antônio Bezerra",
+    "cep": "60356-770"
+  },
+  {
+    "id": 1764416911993,
+    "nome": "Ecoponto Jardim Cearense",
+    "endereco": "R. Holanda, 1538",
+    "bairro": "Jardim Cearense",
+    "cep": "60712-165"
   }
 ]

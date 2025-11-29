@@ -32,7 +32,7 @@ eco-pontos/
 │       ├── mobile/
 │       │   └── [arquivos de imagem]
 │       └── web/
-│           └── [arquivos de imagem]
+│            └── [arquivos de imagem]
 │            
 ├── backend/                          # Código do servidor (API)
 │   ├── index.js                      # Ponto de entrada da aplicação Express
