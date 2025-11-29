@@ -1,0 +1,3 @@
+### Vídeo demonstrativo das funcionalidades da aplicação sendo testadas
+
+- https://youtu.be/ZF3H_Av7lnA
