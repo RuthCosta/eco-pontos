@@ -30,5 +30,5 @@
 ### 5. Demonstração do Layout e das Funcionalidades Aplicadas
 - Demonstração visual do funcionamento da aplicação, com exemplos do uso de cada funcionalidade
 
-### 7. Perguntas e Respostas
+### 6. Perguntas e Respostas
 - Momento tira-dúvidas do público-alvo sobre a  apresentação
