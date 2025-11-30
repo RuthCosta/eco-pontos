@@ -46,17 +46,17 @@ eco-pontos/
 │       ├── insomnia_export.json
 │       ├── api.test.js
 │       └── unit.test.js              
-├── frontend/                         # Página web de interação com a API
-│   └── index.html                    # Página principal (pesquisa e mapa)
-└── validacao
-    ├── evidencia
-        └── [arquivos de imagem]
-    ├── feedback
-        └── feedback.md
-    ├── publico_alvo.md
-    ├── relatrio_de_validacao.md
-    └── video_da_aplicacao
-    
+│
+├── validacao
+│   ├── evidencia
+│       └── [arquivos de imagem]
+│   ├── feedback
+│       └── feedback.md
+│   ├── publico_alvo.md
+│   ├── relatrio_de_validacao.md
+│   └── video_da_aplicacao
+└── frontend/                         # Página web de interação com a API
+    └── index.html                    # Página principal (pesquisa e mapa)    
  
 ```
 
