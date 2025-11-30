@@ -6,8 +6,7 @@
 2. Requisitos Funcionais 
 4. Processo de Desenvolvimento
 5. Demonstração do Layout e das Funcionalidades Aplicadas
-6. Apresentação do Formulário para Feedback do Público Alvo
-7. Perguntas e Respostas
+6. Perguntas e Respostas
 
 ### 1. Introdução do ODS - 11 Cidades e Comunidades Sustentáveis
 - Missão: “Tornar as cidades e comunidades mais inclusivas, seguras, resilientes e sustentáveis”
@@ -31,9 +30,5 @@
 ### 5. Demonstração do Layout e das Funcionalidades Aplicadas
 - Demonstração visual do funcionamento da aplicação, com exemplos do uso de cada funcionalidade
 
-### 6. Apresentação do Formulário para Feedback do Público Alvo
-- Link para o formulário do feedback e explicação de cada pergunta
-- https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__THCYZxUQlJKM0ozVVBRVVVGS0lHWFkxMDA1VDZIWC4u
-
 ### 7. Perguntas e Respostas
-- Momento tira-dúvidas dos ouvintes da apresentação
+- Momento tira-dúvidas do público-alvo sobre a  apresentação
